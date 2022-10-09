@@ -1,3 +1,4 @@
 # Banco-de-Dados-
-Esse projeto foi desenvolvido por mim e meus amigos do curso, na matéria de Banco de Dados.
+Esse projeto foi desenvolvido durante a minha matéria de banco de dados.
+
 
