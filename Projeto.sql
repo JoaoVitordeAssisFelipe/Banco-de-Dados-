@@ -255,3 +255,4 @@ VALUES  ('25544565',0000563216,'2022-08-01 18:30:09',15.04),
  
  INSERT INTO endereco_inst(id_inst, rua, numero, bairro) 
  VALUES  ('1', 'rua Charuri', 123, 'Roosevelt');       
+
