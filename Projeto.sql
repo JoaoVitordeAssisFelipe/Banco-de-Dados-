@@ -1,6 +1,6 @@
 /*Banco de Dados de uma catraca de um instituição */
 
-CREATE table alunos(
+CREATE TABLE alunos(
     id_aluno VARCHAR(30) not NULL PRIMARY key,
     cpf VARCHAR(15) not NULL,
     nome varchar(50) not NULL,
